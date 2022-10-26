@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fpcsong
 - 👀 I’m interested in NLP/Dialogue systems
-- 🌱 I’m currently a PHD student in IIE, CAS.
+- 🌱 I’m currently a PhD student in IIE, CAS.
 - 📫 Reach me at songxiaohui@iie.ac.cn or fpcsong@gmail.com
 
 <!---
