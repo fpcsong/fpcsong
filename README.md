@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fpcsong
-- 👀 I’m interested in NLP/Dialogue systems
-- 🌱 I’m currently a PhD student in IIE, CAS.
-- 📫 Reach me at songxiaohui@iie.ac.cn or fpcsong@gmail.com
+- 📫 Reach me at fpcsong@gmail.com
 
 <!---
 fpcsong/fpcsong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
